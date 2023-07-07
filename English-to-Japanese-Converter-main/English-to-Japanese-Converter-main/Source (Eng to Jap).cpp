@@ -1,6 +1,6 @@
 
 /*    This Code is written by 
-      Satish Kumar Prajapati
+  
 */
 
 #include <bits/stdc++.h>
